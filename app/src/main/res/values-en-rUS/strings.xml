@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="name">Name(s)</string>
+    <string name="surname">First Surname</string>
+    <string name="second_surname">Second Surname</string>
+    <string name="save">Save</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="date_format">%1$d/%2$d/%3$d</string>
+    <string name="error_empty">Field cannot be empty</string>
+    <string name="error_regex">Invalid format or characters</string>
+    <string name="aries">Aries</string>
+    <string name="taurus">Taurus</string>
+    <string name="gemini">Gemini</string>
+    <string name="cancer">Cancer</string>
+    <string name="leo">Leo</string>
+    <string name="virgo">Virgo</string>
+    <string name="libra">Libra</string>
+    <string name="scorpio">Scorpio</string>
+    <string name="sagittarius">Sagittarius</string>
+    <string name="capricorn">Capricorn</string>
+    <string name="aquarius">Aquarius</string>
+    <string name="pisces">Pisces</string>
+    <string name="rat">Rat</string>
+    <string name="ox">Ox</string>
+    <string name="tiger">Tiger</string>
+    <string name="rabbit">Rabbit</string>
+    <string name="dragon">Dragon</string>
+    <string name="snake">Snake</string>
+    <string name="horse">Horse</string>
+    <string name="goat">Goat</string>
+    <string name="monkey">Monkey</string>
+    <string name="rooster">Rooster</string>
+    <string name="dog">Dog</string>
+    <string name="pig">Pig</string>
+    <string name="complete_name">Name:\n%1$s %2$s %3$s</string>
+    <string name="final_date">Date of birth: %1$s</string>
+    <string name="rfc">RFC: %1$s</string>
+    <string name="age">Age: %1$d year(s)</string>
+    <string name="zodiac">Zodiac:\n%1$s</string>
+    <string name="chin_zodiac">Chinese Zodiac:\n%1$s</string>
+    <string name="data">Enter your info</string>
+    <string name="back">Go back</string>
+</resources>
